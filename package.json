@@ -1,15 +1,7 @@
 {
-  "name": "@byai/topology",
-  "version": "1.13.0",
+  "name": "topology",
+  "version": "1.0.0",
   "description": "拓扑图组件",
-  "bugs": {
-    "url": "https://github.com/byai/topology/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/byai/topology"
-  },
-  "license": "MIT",
   "main": "dist/lib/index.js",
   "typings": "dist/lib/index.d.ts",
   "files": [
